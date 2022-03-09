@@ -12,8 +12,8 @@
 
 ### Screenshot of my solution
 
-![image](img/desktopscreenshot.png)
-![image](img/desktopwithhoverbutton.png)
+![screenshot](img/desktopscreenshot.png)
+![screenshot](img/desktopwithhoverbutton.png)
 
 ### My process
 

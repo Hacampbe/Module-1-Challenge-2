@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: url(img/macbook.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+    position: relative;
+}
+h1 {
+    text-transform: uppercase;
+    margin-top: 0;
+}
+button {
+    background-color: #000;
+    color: #fff;
+    padding: 5px 8px;
+    border-radius: 50px;
+    margin: 10px 15px 0 0;
+}
+button:hover {
+    background-color: navy;
+    transition: .2s;
+}
+.box {
+    width: 500px;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 20px;
+    position: absolute;
+    top: 150px;
+    right: 100px;
+}
+
